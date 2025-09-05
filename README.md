@@ -51,10 +51,3 @@ npm start
 |--------|---------------|------------------------------|
 | POST   | /api/shorten  | Shortens a given long URL    |
 | GET    | /:shortId     | Redirects to original URL    |
-
-
-## 📄 License
-This project is licensed under the MIT License.
-```bash
-Let me know if you'd like to include a project logo, deployment instructions, or a live demo link! 🚀✨
-```
